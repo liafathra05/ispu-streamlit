@@ -143,13 +143,6 @@ st.markdown("""
     </div>
 """, unsafe_allow_html=True)
 
-# Divider
-st.markdown("""
-    <div class="divider-line">
-        <span class="divider-text">✦ Tentang Penelitian ✦</span>
-    </div>
-""", unsafe_allow_html=True)
-
 # Grid identitas
 st.markdown("""
     <div class="identitas-grid">
