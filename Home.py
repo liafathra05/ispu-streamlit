@@ -154,42 +154,36 @@ st.markdown("""
 st.markdown("""
     <div class="identitas-grid">
         <div class="identitas-card">
-            <div class="icon">👤</div>
             <div>
                 <div class="label">Nama</div>
                 <div class="value">Liafathra</div>
             </div>
         </div>
         <div class="identitas-card">
-            <div class="icon">🎓</div>
             <div>
                 <div class="label">Program Studi</div>
                 <div class="value">Teknik Informatika</div>
             </div>
         </div>
         <div class="identitas-card">
-            <div class="icon">🏛️</div>
             <div>
                 <div class="label">Universitas</div>
                 <div class="value">Universitas Negeri Semarang</div>
             </div>
         </div>
         <div class="identitas-card">
-            <div class="icon">💳</div>
             <div>
                 <div class="label">NIM</div>
                 <div class="value">4611422128</div>
             </div>
         </div>
         <div class="identitas-card">
-            <div class="icon">🏢</div>
             <div>
                 <div class="label">Fakultas</div>
                 <div class="value">Fakultas Matematika dan Ilmu Pengetahuan Alam</div>
             </div>
         </div>
         <div class="identitas-card">
-            <div class="icon">📅</div>
             <div>
                 <div class="label">Tahun</div>
                 <div class="value">2026</div>
@@ -201,10 +195,9 @@ st.markdown("""
 # Dosen pembimbing
 st.markdown("""
     <div class="dosbing-card">
-        <div class="icon">👨‍🏫</div>
         <div>
             <div class="label">Dosen Pembimbing</div>
-            <div class="value">Nama Dosen Pembimbing, S.Si., M.Kom.</div>
+            <div class="value">Endang Sugiharti, S.Si., M.Kom.</div>
         </div>
     </div>
 """, unsafe_allow_html=True)
